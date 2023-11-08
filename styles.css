@@ -1,0 +1,44 @@
+.Main {
+    display: flex;
+    background-color:rgb(80, 195, 236)
+    }
+
+.Main_nav{
+    display: flex;
+}
+.Main_nav a {
+    display: block;
+    padding: 1em;
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    font-size: large ;
+    font-weight:bold;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    
+    
+}
+.Main_nav a:hover {
+    background-color: rgb(157, 233, 254);
+}
+
+.Main_nav img {
+    width: 70px;
+    margin-left: 10px;
+}
+.passport {
+    width: 500px;
+}
+.Шапка {
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
+
+.Link {
+    text-decoration: none;
+    color: rgb(15, 138, 183);
+    font-weight: bold;
+}
